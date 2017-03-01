@@ -1,6 +1,5 @@
 # Computer_Vision-assignments
-## Assignment 1
-### Group Members
+## Group Members
 * RSI2016504
 * RSI2017002
 * RSI2017001
